@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|c:\\users\\user\\downloads\\dotnetmvc\\dotnetmvc\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5113BDB3-F0E2-48EC-8981-B65D0A0CD129}|dotnetcoremorningclass.csproj|solutionrelative:views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "Controllers\\RaceController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:54:40.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:31:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "Models\\Race.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Race.cs",
+              "RelativeToolTip": "Models\\Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:51:13.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Movies.cs",
+              "RelativeToolTip": "Models\\Movies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:51:09.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "Models\\Club.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\Club.cs",
+              "RelativeToolTip": "Models\\Club.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:51:02.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:50:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:45:55.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Interfaces\\IClubRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClubRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Interfaces\\IClubRepository.cs",
+              "RelativeToolTip": "Interfaces\\IClubRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:50:10.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Repository\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClubRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Repository\\ClubRepository.cs",
+              "RelativeToolTip": "Repository\\ClubRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:31:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T22:28:48.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Dotnetmvc\\Dotnetmvc\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "Controllers\\ClubController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:57:13.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
